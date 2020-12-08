@@ -17,5 +17,5 @@ do
 		     break;;
 	esac
 done
-# *) echo "ERROR - Please enter a number (1,2,3): "; read number
+
 
